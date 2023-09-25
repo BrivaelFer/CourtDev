@@ -4,3 +4,5 @@ SQL3 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-3-cb76411defd1408e8c0bff
 SQL4 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-4-c21c0df4ca3b41deb2f58884de0580d2?pvs=4
 
 Dev1 : https://dot-pest-569.notion.site/Bloc-2-SLAM-D-VELOPPEMENT-1-2a20f75414f84228b75895496a25bff8
+
+CDIS3 : https://dot-pest-569.notion.site/Cours-distance-03-94104430e24b44c698f0797021dcc6bc?pvs=4
