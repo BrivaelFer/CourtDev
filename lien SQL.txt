@@ -2,6 +2,13 @@ SQL1 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-1-82561297b48d44169cd16f
 SQL2 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-2-27c34bd153844c789c37f03d16c4ad5e
 SQL3 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-3-cb76411defd1408e8c0bffac0df1d634
 SQL4 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-4-c21c0df4ca3b41deb2f58884de0580d2?pvs=4
+SQL5 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-5-5ad088716d054a249d3c184ed32bae13?pvs=4
+SQL6 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-6-468411e7a85a4855b61d3694902299ea?pvs=4
+SQL7 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-7-498ca9c61d1c40e7afafafa40f1c59cc?pvs=4
+SQL8 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-8-0c5c9becee8844368c9558ab51407869?pvs=4
+SQL9 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-9-41db744848b74ba993aee6b56b940dd8?pvs=4
+SQL10 : https://dot-pest-569.notion.site/Bloc-2-SLAM-SQL-10-d9be062fb52f420db8130deefe19a9c1?pvs=4
+
 
 Dev1 : https://dot-pest-569.notion.site/Bloc-2-SLAM-D-VELOPPEMENT-1-2a20f75414f84228b75895496a25bff8
 Dev2 : https://dot-pest-569.notion.site/Bloc-2-SLAM-D-VELOPPEMENT-2-e2d28f8158734499b7e6af7a23dedeff?pvs=4
