@@ -22,5 +22,6 @@ CDIS6 : https://dot-pest-569.notion.site/Cours-distance-06-92b465cf1e8a4fa893554
 CDIS7 : https://dot-pest-569.notion.site/Cours-distance-07-798b31f172444b4f96949c632c76eeb2?pvs=4
 CDIS8 : https://dot-pest-569.notion.site/Cours-distance-08-9f0f51fa874543d6ba8e7852d2c5de9c?pvs=4
 CDIS9 : https://dot-pest-569.notion.site/Cours-distance-09-c8844aa4cbbc4a8aaa397b012ab6512d?pvs=4
+CDIS10 : https://dot-pest-569.notion.site/Cours-distance-10-8b4bd4b8cbf2462f845f045fc2dc6c4e?pvs=4
 
 DIV1 : https://dot-pest-569.notion.site/Bloc-2-SLAM-D-VELOPPEMENT-GRETA-de2761e225f944d1a43d56960109dd25?pvs=4
