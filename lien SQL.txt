@@ -27,6 +27,8 @@ CDIS11 : https://dot-pest-569.notion.site/Cours-distance-11-0446f07830f6479c90ab
 
 DIV1 : https://dot-pest-569.notion.site/Bloc-2-SLAM-D-VELOPPEMENT-GRETA-de2761e225f944d1a43d56960109dd25?pvs=4
 DIV2 : https://dot-pest-569.notion.site/Symfony-5-db91c6a5653e4c23a8330baa6ba21e0b?pvs=4
+DIV3 : https://dot-pest-569.notion.site/Enonc-s-3bc591c714d34ea6b7c3ec1619cecec9?pvs=4
+DIV4 : https://dot-pest-569.notion.site/Enonc-s-c34608271ac24f36a423953e1a9af1da?pvs=4
 
 CYBER : https://dot-pest-569.notion.site/Bloc-3-SLAM-CYBERSECURITE-a8c2d574c2154475a4a4bca05204680e?pvs=4
 CYBER2 : https://dot-pest-569.notion.site/BLOC-3-CYBER-FAILLE-2-36472749d79143d8bf90db05a6413573?pvs=4
